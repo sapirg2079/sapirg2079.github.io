@@ -1,3 +1,2 @@
 # sapirg2079.github.io
-hello
-my names is sapir green
+Hey, my name is Sapir Green, staring my Msc. in Biology
