@@ -16,7 +16,7 @@ My name is Sapir Green, and I am a Life Sciences student with a strong curiosity
 <div class="research-card">
   <span class="research-type">CURRENT RESEARCH</span>
 
-  **Weizmann Institute of Science · Dr. Tanita Wein**
+<strong>Weizmann Institute of Science · Dr. Tanita Wein</strong>
 
   Studying bacterial gasdermin defense systems across species and their connections to immune systems in other organisms, including humans.
 </div>
@@ -24,7 +24,7 @@ My name is Sapir Green, and I am a Life Sciences student with a strong curiosity
 <div class="research-card">
   <span class="research-type">UNDERGRADUATE RESEARCH</span>
 
-  **Weizmann Institute of Science · Prof. Yitzhak Pilpel**
+ <strong>Weizmann Institute of Science · Pro. Yizhak Pilpel</strong>
 
   Investigated the relationship between short-term physiological responses and long-term genetic adaptation to cold stress in yeast.
 </div>
@@ -32,7 +32,7 @@ My name is Sapir Green, and I am a Life Sciences student with a strong curiosity
 <div class="research-card">
   <span class="research-type">UNDERGRADUATE RESEARCH</span>
 
-  **Tel Aviv University · Prof. Avigdor Eldar**
+  <strong>Tel Aviv University· Pro. Avigdor Eldar</strong>
 
   Investigated the MazEF toxin–antitoxin system in *Bacillus subtilis* and its conservation using the MazEF system from *Listeria*.
 </div>
