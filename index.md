@@ -1,10 +1,8 @@
 ---
 layout: default
 ---
-# Sapir Green
 
 ## 👋 About Me
-<img class="profile-photo" src="/assets/images/student id picature .jpeg" alt="Sapir Green">
 My name is Sapir Green, and I am a Life Sciences student with a strong curiosity about the natural world and the mechanisms that shape life. Outside of science, I enjoy reading, baking, and practicing Pilates🧘‍♀️.
 
 ## 🎓 Academic Background
