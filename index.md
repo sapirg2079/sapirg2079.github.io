@@ -21,3 +21,6 @@ Evolutionary biology, phylogenetics, host–pathogen interactions, and the conse
 
 ##  🌱 My Goals for the Python Course
 I hope to develop practical Python coding skills that I can use to analyze biological data in my research. I also want to broaden my perspective, explore new ways of thinking, and enjoy learning something new.
+## 💌Let's Connect
+Always happy to connect, exchange ideas, and talk about science and life.
+📧 [sapir.green@weizmann.ac.il](mailto:sapir.green@weizmann.ac.il)
