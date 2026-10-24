@@ -34,7 +34,9 @@ My name is Sapir Green, and I am a Life Sciences student with a strong curiosity
 
   <strong>Tel Aviv University· Pro. Avigdor Eldar</strong>
 
-  Investigated the MazEF toxin–antitoxin system in *Bacillus subtilis* and its conservation using the MazEF system from *Listeria*.
+Investigated the MazEF toxin–antitoxin system in
+<em>Bacillus subtilis</em> and its conservation using
+the MazEF system from <em>Listeria</em>.
 </div>
 
 ## 🧬 Research Interests
