@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # sapirg2079.github.io
 # Sapir Green
 
