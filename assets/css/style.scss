@@ -5,7 +5,7 @@
 
 $main-purple: #6b4c9a;
 $light-purple: #b7a3d6;
-$bg-color: #faf8fd;
+$bg-color: #dee2ff;
 $border-color: #e4dcf0;
 
 body {
@@ -28,12 +28,17 @@ body {
   max-width: 850px;
 }
 
-.main-content h2 {
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4 {
   color: $main-purple;
+}
+
+.main-content h2 {
   border-bottom: 1px solid $border-color;
   padding-bottom: 6px;
 }
-
 .main-content a {
   color: $main-purple;
 }
