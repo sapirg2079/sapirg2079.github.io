@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Sapir Green
 ---
 
 ## 👋 About Me
