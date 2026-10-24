@@ -4,9 +4,9 @@
 @import "{{ site.theme }}";
 
 $main-purple: #6b4c9a;
-$light-purple: #b7a3d6;
+$light-purple: #5fb3b3;
 $bg-color: #dee2ff;
-$border-color: #e4dcf0;
+$border-color: ##b9bfe8;
 
 body {
   background-color: $bg-color;
@@ -21,7 +21,7 @@ body {
 }
 
 .project-tagline {
-  color: #f6f2fb;
+  color: #white;
 }
 
 .main-content {
