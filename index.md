@@ -18,9 +18,19 @@ My name is Sapir Green, and I am a Life Sciences student with a strong curiosity
 
 ## 🧬 Research Interests
 Evolutionary biology, phylogenetics, host–pathogen interactions, and the conservation of biological mechanisms across species.
+<div class="interests">
+  <figure>
+    <img src="/assets/images/evolution.jpg" alt="Different species of butterflies and insects">
+    <figcaption>Evolution</figcaption>
+  </figure>
+  <figure>
+    <img src="/assets/images/bacteria.jpg" alt="Bacteria">
+    <figcaption>Bacteria & Defense Systems</figcaption>
+  </figure>
+</div>
 
 ##  🌱 My Goals for the Python Course
 I hope to develop practical Python coding skills that I can use to analyze biological data in my research. I also want to broaden my perspective, explore new ways of thinking, and enjoy learning something new.
 ## 💌Let's Connect
 Always happy to connect, exchange ideas, and talk about science and life.
-📧 [sapir.green@weizmann.ac.il](mailto:sapir.green@weizmann.ac.il)
+ 📧 [sapir.green@weizmann.ac.il](mailto:sapir.green@weizmann.ac.il)
