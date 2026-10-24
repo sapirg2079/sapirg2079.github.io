@@ -104,7 +104,7 @@ body {
 .page-header::after {
   content: "";
   position: absolute;
-  left: 360px;
+  right: 180px;
   top: 50%;
   transform: translateY(-50%);
   width: 110px;
