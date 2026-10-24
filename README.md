@@ -9,8 +9,8 @@ My name is Sapir Green, and I am a Life Sciences student with a strong curiosity
 - Starting M.Sc. in Weizmann Institute of Science.  
   
 ## Research Experience
--Undergraduate Research — Tel Aviv University: investigating the MazEF toxin–antitoxin system in *Bacillus subtilis* and the conservation of this system using MazEF from *listeria*.
--
+- <span style="text-decoration: underline; font-weight: normal;">Undergraduate Research</span> — Tel Aviv University: investigating the MazEF toxin–antitoxin system in *Bacillus subtilis* and the conservation of this system using MazEF from *listeria*.
+- 
 
 ## Research Interests
 Evolutionary biology, phylogenetics, host–pathogen interactions, and the conservation of biological mechanisms across species.
