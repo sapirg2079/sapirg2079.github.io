@@ -1,24 +1,24 @@
 ---
 layout: default
-title: Sapir Green
 ---
-
+# sapirg2079.github.io
 # Sapir Green
 
-Welcome to my personal academic website!
-
-I am a Life Sciences graduate student interested in biology, evolution, and scientific research.
+## About Me
+My name is Sapir Green, and I am a Life Sciences student with a strong curiosity about the natural world and the mechanisms that shape life. Outside of science, I enjoy reading, baking, and practicing Pilates.
 
 ## Academic Background
+- B.Sc. in Life Sciences in Tel Aviv University.
+- Starting M.Sc. in Weizmann Institute of Science.  
+  
+## Research Experience
 
-B.Sc. in Life Sciences, Tel Aviv University.
+- Undergraduate Research — Tel Aviv University: investigated the MazEF toxin–antitoxin system in *Bacillus subtilis* and the conservation of this system using MazEF from *listeria*.
+- Undergraduate Research — Weizmann Institute of Science: investigatated the relationship between short-term physiological responses and long-term genetic adaptation, to cold stress in yeast. 
+- Current Research — Weizmann Institute of Science, Dr.Tanita Wein lab: studying gasdermin defense system in bacteria from different species and their connections to immune systems in other organisms, including humans.
 
 ## Research Interests
+Evolutionary biology, phylogenetics, host–pathogen interactions, and the conservation of biological mechanisms across species.
 
-- Evolution and adaptation
-- Molecular and cellular biology
-- Neuroscience
-
-## Goals for This Course
-
-I hope to develop my Python programming skills and learn how to use computational tools to analyze biological data.
+## My Goals for the Python Course
+I hope to develop practical Python coding skills that I can use to analyze biological data in my research. I also want to broaden my perspective, explore new ways of thinking, and enjoy learning something new.
