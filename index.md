@@ -12,9 +12,30 @@ My name is Sapir Green, and I am a Life Sciences student with a strong curiosity
   
 ##  📚 Research Experience
 
-- Undergraduate Research — Tel Aviv University, Pro. Avigdor Eldar lab: investigated the MazEF toxin–antitoxin system in *Bacillus subtilis* and the conservation of this system using MazEF from *listeria*.
-- Undergraduate Research — Weizmann Institute of Science, Pro. Yizhak Pilpel lab: investigated the relationship between short-term physiological responses and long-term genetic adaptation, to cold stress in yeast. 
-- Current Research — Weizmann Institute of Science, Dr. Tanita Wein lab: studying gasdermin defense system in bacteria from different species and their connections to immune systems in other organisms, including humans.
+
+<div class="research-card">
+  <span class="research-type">CURRENT RESEARCH</span>
+
+  **Weizmann Institute of Science · Dr. Tanita Wein**
+
+  Studying bacterial gasdermin defense systems across species and their connections to immune systems in other organisms, including humans.
+</div>
+
+<div class="research-card">
+  <span class="research-type">UNDERGRADUATE RESEARCH</span>
+
+  **Weizmann Institute of Science · Prof. Yitzhak Pilpel**
+
+  Investigated the relationship between short-term physiological responses and long-term genetic adaptation to cold stress in yeast.
+</div>
+
+<div class="research-card">
+  <span class="research-type">UNDERGRADUATE RESEARCH</span>
+
+  **Tel Aviv University · Prof. Avigdor Eldar**
+
+  Investigated the MazEF toxin–antitoxin system in *Bacillus subtilis* and its conservation using the MazEF system from *Listeria*.
+</div>
 
 ## 🧬 Research Interests
 Evolutionary biology, phylogenetics, host–pathogen interactions, and the conservation of biological mechanisms across species.
