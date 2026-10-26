@@ -4,7 +4,7 @@ title: Sapir Green
 ---
 
 ## 👋 About Me
-My name is Sapir Green, and I am a Life Sciences student with a strong curiosity about the natural world and the mechanisms that shape life. Outside of science, I enjoy reading, baking, and practicing Pilates🧘‍♀️.
+My name is Sapir Green, and I am a Life Sciences student with a strong curiosity about the natural world and the mechanisms that shape life. Outside of science, I enjoy reading, baking,eating pasta and practicing Pilates🧘‍♀️.
 
 ## 🎓 Academic Background
 - B.Sc. in Life Sciences in Tel Aviv University.
